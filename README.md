@@ -7,6 +7,7 @@
 ## What is GoGoCode?
 
 
+是这里冲突吗
 
 [中文 README](README-cn.md)
 
