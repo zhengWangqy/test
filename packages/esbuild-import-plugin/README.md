@@ -64,7 +64,8 @@ esbuid.build({
 ### options
 
 好像是这里冲突
-`options` is an array of config.
+
+`options` is an array of config.冲突一下
 
 For Example:
 
