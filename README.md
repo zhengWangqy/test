@@ -8,7 +8,7 @@
 
 
 
-[中文 README](README-cn.md)
+[中文 README](README-cn.md)我master改的是这里，快来冲突吧
 
 GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing an intuitive API:
 
