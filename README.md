@@ -7,7 +7,7 @@
 ## What is GoGoCode?
 
 
-是这里冲突吗
+试试推送
 
 [中文 README](README-cn.md)我master改的是这里，快来冲突吧
 [中文 README](README-cn.md)我a就改这里了
